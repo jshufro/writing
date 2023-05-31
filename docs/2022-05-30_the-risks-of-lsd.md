@@ -14,7 +14,7 @@ In the extreme, if an LSD protocol exceeds critical consensus thresholds such as
 
 LSD protocols can minimize governance, upgradability, and other risks over time, but the question of "who" gets to be a part of the Node Operator (NO) set remains. This lever is the primary cause of cartelization.
 
-Deciding "who" gets to be a NO is a matter of two questions -- who is added to the set and who is removed the set. This can be designed in one of two ways in the long run -- either via governance (a coin vote or other similar mechanism) or via an automated mechanism around reputation and profitability.
+Deciding "who" gets to be a NO is a matter of two questions -- who is added to the set and who is removed from the set. This can be designed in one of two ways in the long run -- either via governance (a coin vote or other similar mechanism) or via an automated mechanism around reputation and profitability.
 
 ### Option 1: Governance of Node Operators
 
